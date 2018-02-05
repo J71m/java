@@ -7,7 +7,7 @@ public class Isikukood{
         return Integer.parseInt(andmed.substring(3, 5));
     }
     public String kuunimi(){
-        String[] kuunimed={"","jaanuar","veebruar","mأ¤rts","aprill",
+        String[] kuunimed={"","jaanuar","veebruar","märts","aprill",
           "mai","juuni","juuli","august",
           "september","oktoober","november","detsember"};
         return kuunimed[kuunr()];
