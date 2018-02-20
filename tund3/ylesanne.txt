@@ -1,0 +1,8 @@
+Pangakontode haldus
+* Loo klass konto, konstruktoris antakse ette kontonumber.
+* Kontosid hoitakse kataloogis "kontod". Kui konto loomisel on fail kujul
+* kontonr.txt juba olemas, siis loetakse failis olev arv konto sisuks,
+* muul juhul luuakse vastav fail sisuga 0.
+* Koosta käsud kontol oleva summa küsimiseks, lisamiseks, maha võtmiseks.
+* arvutused toimuvad mälus, tulemus salvestatakse kettale.
+* KOntrollitakse, et lisada ei saaks negatiivset summat.
